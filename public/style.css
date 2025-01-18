@@ -39,6 +39,9 @@ header{
     background-color: #E5E5E5;
     position: fixed;
 }
+span{
+    font-weight: bold;
+}
 
 nav{
     width: 25%;
